@@ -4,3 +4,4 @@ qdrant-client
 open-clip-torch
 torch
 torchvision
+gunicorn
