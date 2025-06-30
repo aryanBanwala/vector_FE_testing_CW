@@ -1,0 +1,6 @@
+flask
+python-dotenv
+qdrant-client
+open-clip-torch
+torch
+torchvision
